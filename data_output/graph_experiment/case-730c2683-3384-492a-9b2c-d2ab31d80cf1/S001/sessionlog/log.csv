@@ -1,0 +1,4 @@
+timestamp,log_type,message
+0.3533334,Log,Loading cache from D:/GitRepos/Epicentre/GraphHCIExperiment/Assets/StreamingAssets\KarateClub.json
+0.3533334,Log,Creating mesh with 0 nodes
+0.3533334,Error,Failed setting triangles. Some indices are referencing out of bounds vertices. IndexCount: 78 VertexCount: 0

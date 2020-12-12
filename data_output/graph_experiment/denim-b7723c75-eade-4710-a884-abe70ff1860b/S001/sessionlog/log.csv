@@ -1,0 +1,3 @@
+timestamp,log_type,message
+0.604646,Log,Loading cache from D:\GitRepos\Epicentre\GraphHCIExperiment\Assets\StreamingAssets\KarateClub_FA2.graph.json
+0.604646,Log,Creating mesh with 34 nodes

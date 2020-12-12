@@ -1,0 +1,6 @@
+timestamp,log_type,message
+0,Exception,NullReferenceException: Object reference not set to an instance of an object
+0.3533334,Exception,NullReferenceException: Object reference not set to an instance of an object
+39.03069,Warning,A meta data file (.meta) exists but its asset 'Assets/StreamingAssets/KarateClub_FA2.json' can't be found. When moving or deleting files outside of Unity please ensure that the corresponding .meta file is moved or deleted along with it.
+39.03069,Warning,A meta data file (.meta) exists but its asset 'Assets/StreamingAssets/KarateClub_FR.json' can't be found. When moving or deleting files outside of Unity please ensure that the corresponding .meta file is moved or deleted along with it.
+39.03069,Warning,A meta data file (.meta) exists but its asset 'Assets/StreamingAssets/KarateClub_YH.json' can't be found. When moving or deleting files outside of Unity please ensure that the corresponding .meta file is moved or deleted along with it.

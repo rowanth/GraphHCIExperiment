@@ -1,0 +1,5 @@
+timestamp,log_type,message
+0.3002409,Log,Loading cache from D:/GitRepos/Epicentre/GraphHCIExperiment/Assets/StreamingAssets\simple_graph.cache
+0.3002409,Log,Creating mesh with 1133 nodes
+0.3002409,Exception,MissingReferenceException: The object of type 'Transform' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.

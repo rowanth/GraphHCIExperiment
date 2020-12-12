@@ -1,0 +1,16 @@
+{
+    "example_string": "aaa",
+    "example_bool": true,
+    "example_int": 3,
+    "example_float": "3.14",
+    "example_array": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "example_object": {
+        "a": 1,
+        "b": "abc"
+    }
+}

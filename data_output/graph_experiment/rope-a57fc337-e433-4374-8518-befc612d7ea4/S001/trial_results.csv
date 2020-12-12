@@ -1,0 +1,4 @@
+experiment,ppid,session_num,trial_num,block_num,trial_num_in_block,start_time,end_time
+graph_experiment,rope-a57fc337-e433-4374-8518-befc612d7ea4,1,1,1,1,0.02,28.32888
+graph_experiment,rope-a57fc337-e433-4374-8518-befc612d7ea4,1,2,1,2,29.32207,33.35194
+graph_experiment,rope-a57fc337-e433-4374-8518-befc612d7ea4,1,3,1,3,34.34123,38.35731
